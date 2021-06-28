@@ -1,3 +1,7 @@
 hello git
 
 modify content on the master
+
+modify content on wechat branch
+
+modify content on wechat branch by second
